@@ -1,0 +1,22 @@
+# MathVision 2.0 依赖包
+
+# 核心依赖
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+sympy>=1.12
+
+# AI 数据分析
+pandasai>=1.5.0
+openai>=1.0.0
+
+# GUI 增强
+Pillow>=10.0.0
+
+# 打包工具
+pyinstaller>=5.13.0
+
+# 其他工具
+openpyxl>=3.1.0  # Excel 文件支持
+xlrd>=2.0.1      # 旧版 Excel 文件支持
