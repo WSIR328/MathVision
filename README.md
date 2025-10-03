@@ -1,4 +1,4 @@
-# MathVision 2.0 🎓
+# MathVision 🎓
 
 <div align="center">
 
